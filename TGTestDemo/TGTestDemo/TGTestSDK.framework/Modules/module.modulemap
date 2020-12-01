@@ -1,0 +1,6 @@
+framework module TGTestSDK {
+  umbrella header "TGTestSDK.h"
+
+  export *
+  module * { export * }
+}
